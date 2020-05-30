@@ -97,10 +97,11 @@ body {
 }
 .banner-area {
     min-height: 100vh;
-    background: url('../img/banner.jpg') no-repeat;
+    background: url('../img/banner.jpg') no-repeat center;
     background-size: cover;
     width: 100%;
-    position: relative;   
+    position: relative;  
+    background-attachment: fixed;
 }
 .dark-overlay {
     background: rgba(0,0,0,0.8);
