@@ -26,3 +26,9 @@
     border: 1px solid #d9534f ;
     }  
 }
+
+@media (max-width:495px){
+    .responsive-font {
+        font-size: 20px;
+    }
+}

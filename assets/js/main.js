@@ -22,3 +22,5 @@ $(document).ready(function(){
     });
 });
 
+alert("This website is now on Under Construction.")
+
