@@ -3,20 +3,9 @@
         font-size: 11px; 
     }
 }
-@media (max-width: 800px){
-    .header-hide {
-        display: block;
-        width: 800px;
-    }
-    
-}
 @media (max-width:767px){
     #header{
         z-index: 1;
-    }
-    .header-hide {
-        width: 800px;
-        display: none;
     }
     #header .toggle-button {
         display: block;
